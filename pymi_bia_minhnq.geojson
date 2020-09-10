@@ -1,0 +1,499 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8199759,
+                    20.9985622
+                ]
+            },
+            "properties": {
+                "name": "Saigon Kim Lien Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8199759,
+                    20.9985622
+                ]
+            },
+            "properties": {
+                "name": "Saigon Kim Lien Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8104816,
+                    21.0244844
+                ]
+            },
+            "properties": {
+                "name": "Khách sạn Bảo Sơn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8104816,
+                    21.0244844
+                ]
+            },
+            "properties": {
+                "name": "Khách sạn Bảo Sơn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8283333,
+                    21.0258333
+                ]
+            },
+            "properties": {
+                "name": "Sunny Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8283333,
+                    21.0258333
+                ]
+            },
+            "properties": {
+                "name": "Sunny Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8181999,
+                    21.0271566
+                ]
+            },
+            "properties": {
+                "name": "Khách sạn Thương Mại"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8181999,
+                    21.0271566
+                ]
+            },
+            "properties": {
+                "name": "Khách sạn Thương Mại"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8155911,
+                    21.023401
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Heritage Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8155911,
+                    21.023401
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Heritage Hà Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8206156,
+                    21.0238363
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Blue 29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8206156,
+                    21.0238363
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Blue 29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8131104,
+                    21.0154663
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Capital Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8131104,
+                    21.0154663
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Capital Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8217956,
+                    21.0249957
+                ]
+            },
+            "properties": {
+                "name": "Rustic House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8217956,
+                    21.0249957
+                ]
+            },
+            "properties": {
+                "name": "Rustic House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8236931,
+                    21.0202341
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Phú Nhuận New"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8236931,
+                    21.0202341
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Phú Nhuận New"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8354988,
+                    21.0191146
+                ]
+            },
+            "properties": {
+                "name": "Van Mieu 2 Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8354988,
+                    21.0191146
+                ]
+            },
+            "properties": {
+                "name": "Van Mieu 2 Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8167076,
+                    21.017925
+                ]
+            },
+            "properties": {
+                "name": "Aroma Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8167076,
+                    21.017925
+                ]
+            },
+            "properties": {
+                "name": "Aroma Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8170094,
+                    21.0267067
+                ]
+            },
+            "properties": {
+                "name": "Tictak Coffee Ngọc Khánh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8170094,
+                    21.0267067
+                ]
+            },
+            "properties": {
+                "name": "Tictak Coffee Ngọc Khánh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8176473,
+                    21.026426
+                ]
+            },
+            "properties": {
+                "name": "Binh Minh Hotel - 94 Ngoc Khanh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8176473,
+                    21.026426
+                ]
+            },
+            "properties": {
+                "name": "Binh Minh Hotel - 94 Ngoc Khanh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8217072,
+                    21.0211048
+                ]
+            },
+            "properties": {
+                "name": "Nhà Thuốc Hoàng Thanh 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8217072,
+                    21.0211048
+                ]
+            },
+            "properties": {
+                "name": "Nhà Thuốc Hoàng Thanh 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8131495,
+                    21.0085227
+                ]
+            },
+            "properties": {
+                "name": "Nhà Thuốc Thanh Nga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8131495,
+                    21.0085227
+                ]
+            },
+            "properties": {
+                "name": "Nhà Thuốc Thanh Nga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8249221,
+                    21.0286049
+                ]
+            },
+            "properties": {
+                "name": "Bộ Y Tế Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8249221,
+                    21.0286049
+                ]
+            },
+            "properties": {
+                "name": "Bộ Y Tế Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8188212,
+                    21.0129325
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Mai Villa 3 - Thái Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8188212,
+                    21.0129325
+                ]
+            },
+            "properties": {
+                "name": "Khách Sạn Mai Villa 3 - Thái Hà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8255692,
+                    21.0195425
+                ]
+            },
+            "properties": {
+                "name": "Saigon Sun Hotel 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8255692,
+                    21.0195425
+                ]
+            },
+            "properties": {
+                "name": "Saigon Sun Hotel 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7988345,
+                    21.0101531
+                ]
+            },
+            "properties": {
+                "name": "Trung Hoà"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7988345,
+                    21.0101531
+                ]
+            },
+            "properties": {
+                "name": "Trung Hoà"
+            }
+        }
+    ]
+}
